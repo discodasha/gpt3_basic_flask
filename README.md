@@ -7,3 +7,7 @@ curl -H "Content-Type: application/json" -d '{"prompt":"Конь", "length":10,"
 
 
 if you start app for the first time, use model_name_or_path = "sberbank-ai/rugpt3large_based_on_gpt2" to load model
+
+
+
+based on repo: https://github.com/sberbank-ai/ru-gpts
